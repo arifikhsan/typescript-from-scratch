@@ -1,0 +1,14 @@
+{
+  "name": "typescript-from-scratch",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:arifikhsan/typescript-from-scratch.git",
+  "author": "Arif Ikhsanudin <arif.ikhsanudin.developer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
